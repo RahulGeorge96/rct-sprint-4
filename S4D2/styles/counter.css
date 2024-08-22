@@ -1,0 +1,23 @@
+.lightmode{
+    background-color: aqua;
+    font-family: sans-serif;
+    padding: 20px;
+    font-weight: 600;
+}
+.lightmode button{
+    background-color: greenyellow;
+    padding: 5px 10px;
+}
+
+.darkmode{
+    background-color: midnightblue;
+    font-family: sans-serif;
+    padding:20px;
+    font-weight: 600;
+    color: whitesmoke;
+}
+.darkmode button{
+    background-color: darkgreen;
+    padding: 5px 10px;
+
+}
